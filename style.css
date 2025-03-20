@@ -1,0 +1,74 @@
+@page {
+  size: 8.5in 11in;
+  margin: 20mm;
+}
+
+.body{
+ 
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  
+}
+
+
+
+.header{
+  padding-left: 40%;
+}
+
+.title {
+  background-color: azure;
+  color: black;
+  text-align: center; 
+  line-height: 1.5; 
+}
+
+.image{
+  position: absolute;
+  top: 0;
+  padding: 25px;
+  width: 150px;
+  height: 500px;
+ }
+
+.content {
+  font-style: italic;
+  font-size: medium;
+  text-align: justify; 
+}
+
+.intern1, .intern2 {
+  font-style: italic;
+  list-style-position: inside;
+  border-left: 3px solid black;
+  padding-left: 1%;
+
+}
+ .projects_details{
+  font-size: 20px;
+ }
+ 
+
+.footer{
+  position: absolute;
+  left: 0px;
+  top: 17%;
+  width: 250px;
+  border: 300px ;
+  padding: 10px;
+}
+
+.details{
+  font-size: 15px;
+}
+  
+
+
+
+
+
+
